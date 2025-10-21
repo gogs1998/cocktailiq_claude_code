@@ -1,0 +1,25 @@
+{
+  "total_cocktails": 441,
+  "total_unique_ingredients": 300,
+  "avg_ingredients_per_cocktail": 3.922902494331066,
+  "min_ingredients": 2,
+  "max_ingredients": 11,
+  "categories": {
+    "Ordinary Drink": 197,
+    "Cocktail": 105,
+    "Shot": 37,
+    "Punch / Party Drink": 24,
+    "Other / Unknown": 23,
+    "Coffee / Tea": 22,
+    "Shake": 9,
+    "Beer": 8,
+    "Soft Drink": 6,
+    "Homemade Liqueur": 5,
+    "Cocoa": 5
+  },
+  "alcoholic_distribution": {
+    "Alcoholic": 395,
+    "Non alcoholic": 40,
+    "Optional alcohol": 6
+  }
+}
