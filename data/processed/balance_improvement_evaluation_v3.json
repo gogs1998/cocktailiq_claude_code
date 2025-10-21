@@ -1,0 +1,178 @@
+{
+  "summary": {
+    "total_cocktails": 14,
+    "no_rec_needed": 4,
+    "total_tested": 10,
+    "improvements": 10,
+    "degradations": 0,
+    "improvement_rate": 1.0,
+    "avg_balance_change": 0.005429592882824763,
+    "avg_candidates_tested": 4.7
+  },
+  "detailed_results": [
+    {
+      "cocktail": "Margarita",
+      "original_balance": 0.9928199126579154,
+      "new_balance": 0.9928199126579154,
+      "change": 0.0,
+      "recommendation": "none",
+      "amount": 0.0,
+      "improved": false,
+      "status": "no_rec_needed",
+      "candidates_tested": 0
+    },
+    {
+      "cocktail": "Mojito",
+      "original_balance": 0.9729099646160767,
+      "new_balance": 0.9744856536008482,
+      "change": 0.0015756889847714506,
+      "recommendation": "tomato juice",
+      "amount": 5.0,
+      "improved": true,
+      "status": "improved",
+      "candidates_tested": 5,
+      "best_rank": 4
+    },
+    {
+      "cocktail": "Daiquiri",
+      "original_balance": 0.9870493579577502,
+      "new_balance": 0.9870493579577502,
+      "change": 0.0,
+      "recommendation": "none",
+      "amount": 0.0,
+      "improved": false,
+      "status": "no_rec_needed",
+      "candidates_tested": 0
+    },
+    {
+      "cocktail": "Gimlet",
+      "original_balance": 0.9141490790719597,
+      "new_balance": 0.9295697107326967,
+      "change": 0.015420631660736928,
+      "recommendation": "tomato juice",
+      "amount": 18.7,
+      "improved": true,
+      "status": "improved",
+      "candidates_tested": 5,
+      "best_rank": 4
+    },
+    {
+      "cocktail": "Cosmopolitan",
+      "original_balance": 0.9664666905704038,
+      "new_balance": 0.9688724634518089,
+      "change": 0.0024057728814050883,
+      "recommendation": "tomato juice",
+      "amount": 5.0,
+      "improved": true,
+      "status": "improved",
+      "candidates_tested": 4,
+      "best_rank": 3
+    },
+    {
+      "cocktail": "Caipirinha",
+      "original_balance": 0.9923472634403004,
+      "new_balance": 0.9923472634403004,
+      "change": 0.0,
+      "recommendation": "none",
+      "amount": 0.0,
+      "improved": false,
+      "status": "no_rec_needed",
+      "candidates_tested": 0
+    },
+    {
+      "cocktail": "Whiskey Sour",
+      "original_balance": 0.9573215229673835,
+      "new_balance": 0.959505135755278,
+      "change": 0.0021836127878944733,
+      "recommendation": "simple syrup",
+      "amount": 5.0,
+      "improved": true,
+      "status": "improved",
+      "candidates_tested": 5,
+      "best_rank": 5
+    },
+    {
+      "cocktail": "Tom Collins",
+      "original_balance": 0.9600809809056111,
+      "new_balance": 0.9628408352130342,
+      "change": 0.002759854307423093,
+      "recommendation": "tomato juice",
+      "amount": 9.3,
+      "improved": true,
+      "status": "improved",
+      "candidates_tested": 5,
+      "best_rank": 5
+    },
+    {
+      "cocktail": "Moscow Mule",
+      "original_balance": 0.9333493863084708,
+      "new_balance": 0.9426434341454658,
+      "change": 0.009294047836995056,
+      "recommendation": "tomato juice",
+      "amount": 30.0,
+      "improved": true,
+      "status": "improved",
+      "candidates_tested": 4,
+      "best_rank": 3
+    },
+    {
+      "cocktail": "Bramble",
+      "original_balance": 0.9339368707258568,
+      "new_balance": 0.9445311879183483,
+      "change": 0.010594317192491487,
+      "recommendation": "tomato juice",
+      "amount": 7.8,
+      "improved": true,
+      "status": "improved",
+      "candidates_tested": 5,
+      "best_rank": 4
+    },
+    {
+      "cocktail": "Paloma",
+      "original_balance": 0.9613325630868116,
+      "new_balance": 0.9639474044768156,
+      "change": 0.002614841390004008,
+      "recommendation": "tomato juice",
+      "amount": 5.0,
+      "improved": true,
+      "status": "improved",
+      "candidates_tested": 5,
+      "best_rank": 4
+    },
+    {
+      "cocktail": "Sidecar",
+      "original_balance": 0.9525120021477297,
+      "new_balance": 0.9560715128284385,
+      "change": 0.0035595106807088106,
+      "recommendation": "tomato juice",
+      "amount": 5.0,
+      "improved": true,
+      "status": "improved",
+      "candidates_tested": 4,
+      "best_rank": 3
+    },
+    {
+      "cocktail": "Manhattan",
+      "original_balance": 0.9797096157820964,
+      "new_balance": 0.9797096157820964,
+      "change": 0.0,
+      "recommendation": "none",
+      "amount": 0.0,
+      "improved": false,
+      "status": "no_rec_needed",
+      "candidates_tested": 0
+    },
+    {
+      "cocktail": "Negroni",
+      "original_balance": 0.9606756053145098,
+      "new_balance": 0.964563256420327,
+      "change": 0.003887651105817236,
+      "recommendation": "tomato juice",
+      "amount": 5.0,
+      "improved": true,
+      "status": "improved",
+      "candidates_tested": 5,
+      "best_rank": 4
+    }
+  ]
+}

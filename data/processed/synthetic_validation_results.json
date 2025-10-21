@@ -1,0 +1,129 @@
+{
+  "summary": {
+    "total_tests": 10,
+    "passed": 0,
+    "pass_rate": 0.0
+  },
+  "all_tests": [
+    {
+      "test": "synthetic_fix",
+      "synthetic_type": "too_sweet",
+      "original_balance": 0.9928199126579154,
+      "broken_balance": 0.9944934790737474,
+      "issue_detected": false,
+      "fix_applied": false,
+      "passed": false,
+      "reason": "No modification found"
+    },
+    {
+      "test": "synthetic_fix",
+      "synthetic_type": "too_sour",
+      "original_balance": 0.9928199126579154,
+      "broken_balance": 0.9876419905442542,
+      "issue_detected": false,
+      "fix_applied": false,
+      "passed": false,
+      "reason": "No modification found"
+    },
+    {
+      "test": "synthetic_fix",
+      "synthetic_type": "too_sweet",
+      "original_balance": 0.9870493579577502,
+      "broken_balance": 0.9907814406638857,
+      "issue_detected": false,
+      "fix_applied": false,
+      "passed": false,
+      "reason": "No modification found"
+    },
+    {
+      "test": "synthetic_fix",
+      "synthetic_type": "too_sour",
+      "original_balance": 0.9870493579577502,
+      "broken_balance": 0.9799908337102141,
+      "issue_detected": false,
+      "fix_applied": false,
+      "passed": false,
+      "reason": "No modification found"
+    },
+    {
+      "test": "synthetic_fix",
+      "synthetic_type": "too_sweet",
+      "original_balance": 0.9141490790719597,
+      "broken_balance": 0.9268584399378458,
+      "expected_issue": "sweet too high",
+      "issue_detected": false,
+      "fix_ingredient": "tomato juice",
+      "fix_amount": 18.7,
+      "predicted_new_balance": 0.9295697107326967,
+      "improvement": 0.002711270794850895,
+      "restoration_error": 0.015420631660736928,
+      "passed": false,
+      "details": "FAIL: sweet too high -> +tomato juice"
+    },
+    {
+      "test": "synthetic_fix",
+      "synthetic_type": "too_sour",
+      "original_balance": 0.9141490790719597,
+      "broken_balance": 0.9152597444419395,
+      "expected_issue": "sour too high",
+      "issue_detected": false,
+      "fix_ingredient": "tomato juice",
+      "fix_amount": 18.7,
+      "predicted_new_balance": 0.9295697107326967,
+      "improvement": 0.014309966290757203,
+      "restoration_error": 0.015420631660736928,
+      "passed": false,
+      "details": "FAIL: sour too high -> +tomato juice"
+    },
+    {
+      "test": "synthetic_fix",
+      "synthetic_type": "too_sweet",
+      "original_balance": 0.9797096157820964,
+      "broken_balance": 0.9816516294332062,
+      "issue_detected": false,
+      "fix_applied": false,
+      "passed": false,
+      "reason": "No modification found"
+    },
+    {
+      "test": "synthetic_fix",
+      "synthetic_type": "too_sour",
+      "original_balance": 0.9797096157820964,
+      "broken_balance": 0.9777788019986436,
+      "issue_detected": false,
+      "fix_applied": false,
+      "passed": false,
+      "reason": "No modification found"
+    },
+    {
+      "test": "synthetic_fix",
+      "synthetic_type": "too_sweet",
+      "original_balance": 0.9606756053145098,
+      "broken_balance": 0.9708040061038501,
+      "expected_issue": "sweet too high",
+      "issue_detected": true,
+      "fix_ingredient": "tomato juice",
+      "fix_amount": 5.0,
+      "predicted_new_balance": 0.964563256420327,
+      "improvement": -0.006240749683523061,
+      "restoration_error": 0.003887651105817236,
+      "passed": false,
+      "details": "FAIL: sweet too high -> +tomato juice"
+    },
+    {
+      "test": "synthetic_fix",
+      "synthetic_type": "too_sour",
+      "original_balance": 0.9606756053145098,
+      "broken_balance": 0.9555554982554262,
+      "expected_issue": "sour too high",
+      "issue_detected": false,
+      "fix_ingredient": "tomato juice",
+      "fix_amount": 5.0,
+      "predicted_new_balance": 0.964563256420327,
+      "improvement": 0.009007758164900848,
+      "restoration_error": 0.003887651105817236,
+      "passed": false,
+      "details": "FAIL: sour too high -> +tomato juice"
+    }
+  ]
+}
