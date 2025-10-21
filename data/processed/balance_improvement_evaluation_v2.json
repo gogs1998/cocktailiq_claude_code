@@ -1,0 +1,153 @@
+{
+  "summary": {
+    "total_cocktails": 14,
+    "no_rec_needed": 4,
+    "total_tested": 10,
+    "improvements": 2,
+    "degradations": 5,
+    "improvement_rate": 0.2,
+    "avg_balance_change": -0.0003863652447963606
+  },
+  "detailed_results": [
+    {
+      "cocktail": "Margarita",
+      "original_balance": 0.9928199126579154,
+      "new_balance": 0.9928199126579154,
+      "change": 0.0,
+      "recommendation": "none",
+      "amount": 0.0,
+      "improved": false,
+      "status": "no_rec_needed"
+    },
+    {
+      "cocktail": "Mojito",
+      "original_balance": 0.9729099646160767,
+      "new_balance": 0.9716736810050823,
+      "change": -0.001236283610994371,
+      "recommendation": "lemon juice",
+      "amount": 5.0,
+      "improved": false,
+      "status": "degraded"
+    },
+    {
+      "cocktail": "Daiquiri",
+      "original_balance": 0.9870493579577502,
+      "new_balance": 0.9870493579577502,
+      "change": 0.0,
+      "recommendation": "none",
+      "amount": 0.0,
+      "improved": false,
+      "status": "no_rec_needed"
+    },
+    {
+      "cocktail": "Gimlet",
+      "original_balance": 0.9141490790719597,
+      "new_balance": 0.9173451499119255,
+      "change": 0.003196070839965759,
+      "recommendation": "honey",
+      "amount": 10.2,
+      "improved": true,
+      "status": "improved"
+    },
+    {
+      "cocktail": "Cosmopolitan",
+      "original_balance": 0.9664666905704038,
+      "new_balance": 0.9651149661934493,
+      "change": -0.0013517243769545217,
+      "recommendation": "lemon juice",
+      "amount": 5.0,
+      "improved": false,
+      "status": "degraded"
+    },
+    {
+      "cocktail": "Caipirinha",
+      "original_balance": 0.9923472634403004,
+      "new_balance": 0.9923472634403004,
+      "change": 0.0,
+      "recommendation": "none",
+      "amount": 0.0,
+      "improved": false,
+      "status": "no_rec_needed"
+    },
+    {
+      "cocktail": "Whiskey Sour",
+      "original_balance": 0.9573215229673835,
+      "new_balance": 0.9565955524655356,
+      "change": -0.0007259705018478613,
+      "recommendation": "lemon juice",
+      "amount": 5.0,
+      "improved": false,
+      "status": "no change"
+    },
+    {
+      "cocktail": "Tom Collins",
+      "original_balance": 0.9600809809056111,
+      "new_balance": 0.9594164188260151,
+      "change": -0.0006645620795959761,
+      "recommendation": "lime juice",
+      "amount": 5.0,
+      "improved": false,
+      "status": "no change"
+    },
+    {
+      "cocktail": "Moscow Mule",
+      "original_balance": 0.9333493863084708,
+      "new_balance": 0.9325698453211866,
+      "change": -0.0007795409872841663,
+      "recommendation": "lemon juice",
+      "amount": 23.2,
+      "improved": false,
+      "status": "no change"
+    },
+    {
+      "cocktail": "Bramble",
+      "original_balance": 0.9339368707258568,
+      "new_balance": 0.9357854474383289,
+      "change": 0.001848576712472072,
+      "recommendation": "honey",
+      "amount": 5.0,
+      "improved": true,
+      "status": "improved"
+    },
+    {
+      "cocktail": "Paloma",
+      "original_balance": 0.9613325630868116,
+      "new_balance": 0.9601662109011382,
+      "change": -0.0011663521856734027,
+      "recommendation": "lemon juice",
+      "amount": 5.0,
+      "improved": false,
+      "status": "degraded"
+    },
+    {
+      "cocktail": "Sidecar",
+      "original_balance": 0.9525120021477297,
+      "new_balance": 0.9513709344374475,
+      "change": -0.0011410677102822175,
+      "recommendation": "lime juice",
+      "amount": 5.0,
+      "improved": false,
+      "status": "degraded"
+    },
+    {
+      "cocktail": "Manhattan",
+      "original_balance": 0.9797096157820964,
+      "new_balance": 0.9797096157820964,
+      "change": 0.0,
+      "recommendation": "none",
+      "amount": 0.0,
+      "improved": false,
+      "status": "no_rec_needed"
+    },
+    {
+      "cocktail": "Negroni",
+      "original_balance": 0.9606756053145098,
+      "new_balance": 0.9588328067667409,
+      "change": -0.0018427985477689202,
+      "recommendation": "lemon juice",
+      "amount": 5.0,
+      "improved": false,
+      "status": "degraded"
+    }
+  ]
+}
