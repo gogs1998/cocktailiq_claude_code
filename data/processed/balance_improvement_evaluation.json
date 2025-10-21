@@ -1,0 +1,92 @@
+{
+  "summary": {
+    "total_tests": 9,
+    "improvements": 1,
+    "degradations": 7,
+    "improvement_rate": 0.1111111111111111,
+    "avg_balance_change": -0.002237117384933201
+  },
+  "detailed_results": [
+    {
+      "cocktail": "Margarita",
+      "original_balance": 0.9928199126579154,
+      "new_balance": 0.9876419905442542,
+      "change": -0.005177922113661193,
+      "recommendation": "lemon juice",
+      "amount": 15.0,
+      "improved": false
+    },
+    {
+      "cocktail": "Mojito",
+      "original_balance": 0.9729099646160767,
+      "new_balance": 0.9693347179684735,
+      "change": -0.003575246647603225,
+      "recommendation": "lemon juice",
+      "amount": 15.0,
+      "improved": false
+    },
+    {
+      "cocktail": "Gimlet",
+      "original_balance": 0.9141490790719597,
+      "new_balance": 0.9186440925540686,
+      "change": 0.0044950134821089005,
+      "recommendation": "honey",
+      "amount": 15.0,
+      "improved": true
+    },
+    {
+      "cocktail": "Cosmopolitan",
+      "original_balance": 0.9664666905704038,
+      "new_balance": 0.962591323068784,
+      "change": -0.003875367501619764,
+      "recommendation": "lemon juice",
+      "amount": 15.0,
+      "improved": false
+    },
+    {
+      "cocktail": "Caipirinha",
+      "original_balance": 0.9923472634403004,
+      "new_balance": 0.9895417747184543,
+      "change": -0.002805488721846161,
+      "recommendation": "honey",
+      "amount": 15.0,
+      "improved": false
+    },
+    {
+      "cocktail": "Whiskey Sour",
+      "original_balance": 0.9573215229673835,
+      "new_balance": 0.9552010733890138,
+      "change": -0.002120449578369654,
+      "recommendation": "lemon juice",
+      "amount": 15.0,
+      "improved": false
+    },
+    {
+      "cocktail": "Moscow Mule",
+      "original_balance": 0.9333493863084708,
+      "new_balance": 0.9328369283217394,
+      "change": -0.000512457986731385,
+      "recommendation": "lemon juice",
+      "amount": 15.0,
+      "improved": false
+    },
+    {
+      "cocktail": "Paloma",
+      "original_balance": 0.9613325630868116,
+      "new_balance": 0.9579871494058484,
+      "change": -0.003345413680963194,
+      "recommendation": "lemon juice",
+      "amount": 15.0,
+      "improved": false
+    },
+    {
+      "cocktail": "Sidecar",
+      "original_balance": 0.9525120021477297,
+      "new_balance": 0.9492952784320166,
+      "change": -0.0032167237157131323,
+      "recommendation": "lime juice",
+      "amount": 15.0,
+      "improved": false
+    }
+  ]
+}
