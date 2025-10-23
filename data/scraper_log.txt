@@ -1,0 +1,10 @@
+[2025-10-23 11:28:50] Starting from index 0
+[2025-10-23 11:28:50] ======================================================================
+[2025-10-23 11:28:50] BULK SCRAPING: 6633 RECIPES
+[2025-10-23 11:28:50] ======================================================================
+[2025-10-23 11:28:50] [1/6633] Progress: 0.0% | Success: 0 | Failed: 0 | Rate: 23.1 rec/s | ETA: 4.8 min
+[2025-10-23 11:29:10] [10/6633] Progress: 0.2% | Success: 9 | Failed: 0 | Rate: 0.5 rec/s | ETA: 228.8 min
+[2025-10-23 11:29:33] [20/6633] Progress: 0.3% | Success: 19 | Failed: 0 | Rate: 0.5 rec/s | ETA: 240.3 min
+[2025-10-23 11:29:56] [30/6633] Progress: 0.5% | Success: 29 | Failed: 0 | Rate: 0.5 rec/s | ETA: 243.9 min
+[2025-10-23 11:30:19] [40/6633] Progress: 0.6% | Success: 39 | Failed: 0 | Rate: 0.4 rec/s | ETA: 245.9 min
+[2025-10-23 11:30:42] [50/6633] Progress: 0.8% | Success: 49 | Failed: 0 | Rate: 0.4 rec/s | ETA: 247.0 min
