@@ -1,0 +1,554 @@
+[
+  {
+    "name": "Salted Caramel Espresso Martini",
+    "source_book": "Difford's Guide",
+    "source_url": "https://www.diffordsguide.com/cocktails/recipe/37443/salted-caramel-espresso-martini",
+    "ingredients": [
+      {
+        "name": "vodka",
+        "amount": 50.0,
+        "unit": "ml",
+        "original": "50 ml Vodka"
+      },
+      {
+        "name": "espresso coffee (hot)",
+        "amount": 30.0,
+        "unit": "ml",
+        "original": "30 ml Espresso coffee (hot)"
+      },
+      {
+        "name": "salted caramel syrup",
+        "amount": 15.0,
+        "unit": "ml",
+        "original": "15 ml Salted caramel syrup"
+      },
+      {
+        "name": "vanilla bitters",
+        "amount": 0.4,
+        "unit": "ml",
+        "original": "8 drop Vanilla bitters"
+      },
+      {
+        "name": "saline solution 4:1",
+        "amount": 0.15000000000000002,
+        "unit": "ml",
+        "original": "3 drop Saline solution 4:1"
+      }
+    ],
+    "technique": "shaken",
+    "glass": "martini",
+    "notes": "select and pre-chill a martini glass. | prepare garnish of orange zest twist and caramel candy. | shake all ingredients with ice.",
+    "rating": 4.0,
+    "expert_validated": true
+  },
+  {
+    "name": "Salted Caramel Apple Martini",
+    "source_book": "Difford's Guide",
+    "source_url": "https://www.diffordsguide.com/cocktails/recipe/37442/salted-caramel-apple-martini",
+    "ingredients": [
+      {
+        "name": "vodka",
+        "amount": 30.0,
+        "unit": "ml",
+        "original": "30 ml Vodka"
+      },
+      {
+        "name": "calvados apple brandy",
+        "amount": 15.0,
+        "unit": "ml",
+        "original": "15 ml Calvados apple brandy"
+      },
+      {
+        "name": "sour apple liqueur",
+        "amount": 15.0,
+        "unit": "ml",
+        "original": "15 ml Sour apple liqueur"
+      },
+      {
+        "name": "salted caramel syrup",
+        "amount": 15.0,
+        "unit": "ml",
+        "original": "15 ml Salted caramel syrup"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 15.0,
+        "unit": "ml",
+        "original": "15 ml Lemon juice"
+      },
+      {
+        "name": "saline solution 4:1",
+        "amount": 0.15000000000000002,
+        "unit": "ml",
+        "original": "3 drop Saline solution 4:1"
+      }
+    ],
+    "technique": "shaken",
+    "glass": "martini",
+    "notes": "select and pre-chill a martini glass. | prepare garnish of dehydrated apple slice or green apple wedge. | shake all ingredients with ice.",
+    "rating": 4.0,
+    "expert_validated": true
+  },
+  {
+    "name": "Scotch Salted Caramel Sour",
+    "source_book": "Difford's Guide",
+    "source_url": "https://www.diffordsguide.com/cocktails/recipe/37440/scotch-salted-caramel-sour",
+    "ingredients": [
+      {
+        "name": "scotch whisky",
+        "amount": 60.0,
+        "unit": "ml",
+        "original": "60 ml Scotch whisky"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 30.0,
+        "unit": "ml",
+        "original": "30 ml Lemon juice"
+      },
+      {
+        "name": "salted caramel syrup",
+        "amount": 20.0,
+        "unit": "ml",
+        "original": "20 ml Salted caramel syrup"
+      },
+      {
+        "name": "egg white (pasteurised)",
+        "amount": 15.0,
+        "unit": "ml",
+        "original": "15 ml Egg white (pasteurised)"
+      },
+      {
+        "name": "tonka bitters",
+        "amount": 0.30000000000000004,
+        "unit": "ml",
+        "original": "6 drop Tonka bitters"
+      }
+    ],
+    "technique": "shaken",
+    "glass": "unknown",
+    "notes": "select and pre-chill an old-fashioned glass. | prepare garnish of lemon zest twist. | shake all ingredients with ice and strain back into shaker.",
+    "rating": 4.0,
+    "expert_validated": true
+  },
+  {
+    "name": "Salted Caramel Rum Old Fashioned",
+    "source_book": "Difford's Guide",
+    "source_url": "https://www.diffordsguide.com/cocktails/recipe/37441/salted-caramel-rum-old-fashioned",
+    "ingredients": [
+      {
+        "name": "aged rum (6-10yr)",
+        "amount": 60.0,
+        "unit": "ml",
+        "original": "60 ml Aged rum (6-10yr)"
+      },
+      {
+        "name": "salted caramel syrup",
+        "amount": 7.5,
+        "unit": "ml",
+        "original": "7.5 ml Salted caramel syrup"
+      },
+      {
+        "name": "vanilla bitters",
+        "amount": 0.4,
+        "unit": "ml",
+        "original": "8 drop Vanilla bitters"
+      },
+      {
+        "name": "saline solution 4:1",
+        "amount": 0.15000000000000002,
+        "unit": "ml",
+        "original": "3 drop Saline solution 4:1"
+      }
+    ],
+    "technique": "stirred",
+    "glass": "unknown",
+    "notes": "select and pre-chill an old-fashioned glass. | prepare garnish of orange zest twist and salted caramel candy. | stir all ingredients with ice.",
+    "rating": 4.0,
+    "expert_validated": true
+  },
+  {
+    "name": "Sherry White Negroni",
+    "source_book": "Difford's Guide",
+    "source_url": "https://www.diffordsguide.com/cocktails/recipe/37179/sherry-white-negroni",
+    "ingredients": [
+      {
+        "name": "gentian liqueur",
+        "amount": 30.0,
+        "unit": "ml",
+        "original": "30 ml Gentian liqueur"
+      },
+      {
+        "name": "bianco/blanco vermouth",
+        "amount": 30.0,
+        "unit": "ml",
+        "original": "30 ml Bianco/blanco vermouth"
+      },
+      {
+        "name": "fino sherry",
+        "amount": 15.0,
+        "unit": "ml",
+        "original": "15 ml Fino sherry"
+      },
+      {
+        "name": "gin",
+        "amount": 15.0,
+        "unit": "ml",
+        "original": "15 ml Gin"
+      }
+    ],
+    "technique": "stirred",
+    "glass": "coupe",
+    "notes": "select and pre-chill a coupe glass. | prepare garnish of lemon zest twist. | stir all ingredients with ice.",
+    "rating": 4.5,
+    "expert_validated": true
+  },
+  {
+    "name": "Iron Cross",
+    "source_book": "Difford's Guide",
+    "source_url": "https://www.diffordsguide.com/cocktails/recipe/37343/iron-cross",
+    "ingredients": [
+      {
+        "name": "greek spirit",
+        "amount": 20.0,
+        "unit": "ml",
+        "original": "20 ml Greek spirit"
+      },
+      {
+        "name": "rye whiskey 50% abv",
+        "amount": 20.0,
+        "unit": "ml",
+        "original": "20 ml Rye whiskey 50% abv"
+      },
+      {
+        "name": "bourbon whiskey",
+        "amount": 20.0,
+        "unit": "ml",
+        "original": "20 ml Bourbon whiskey"
+      },
+      {
+        "name": "ferro china",
+        "amount": 20.0,
+        "unit": "ml",
+        "original": "20 ml Ferro China"
+      },
+      {
+        "name": "sugar syrup (2:1)",
+        "amount": 5.0,
+        "unit": "ml",
+        "original": "5 ml Sugar syrup (2:1)"
+      }
+    ],
+    "technique": "stirred",
+    "glass": "unknown",
+    "notes": "select and pre-chill an old-fashioned glass. | prepare garnish of lemon zest twist. | stir all ingredients with ice.",
+    "rating": 4.5,
+    "expert_validated": true
+  },
+  {
+    "name": "Piper Plane",
+    "source_book": "Difford's Guide",
+    "source_url": "https://www.diffordsguide.com/cocktails/recipe/37188/piper-plane",
+    "ingredients": [
+      {
+        "name": "scotch whisky",
+        "amount": 22.5,
+        "unit": "ml",
+        "original": "22.5 ml Scotch whisky"
+      },
+      {
+        "name": "amaro (e.g.  nonino)",
+        "amount": 22.5,
+        "unit": "ml",
+        "original": "22.5 ml Amaro (e.g.  Nonino)"
+      },
+      {
+        "name": "orange-red aperitivo",
+        "amount": 22.5,
+        "unit": "ml",
+        "original": "22.5 ml Orange-red aperitivo"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 22.5,
+        "unit": "ml",
+        "original": "22.5 ml Lemon juice"
+      },
+      {
+        "name": "saline solution 4:1",
+        "amount": 0.15000000000000002,
+        "unit": "ml",
+        "original": "3 drop Saline solution 4:1"
+      }
+    ],
+    "technique": "shaken",
+    "glass": "coupe",
+    "notes": "select and pre-chill a coupe glass. | prepare garnish of lemon or orange zest twist. | shake all ingredients with ice.",
+    "rating": 4.5,
+    "expert_validated": true
+  },
+  {
+    "name": "Roman Sour",
+    "source_book": "Difford's Guide",
+    "source_url": "https://www.diffordsguide.com/cocktails/recipe/37191/roman-sour",
+    "ingredients": [
+      {
+        "name": "bourbon whiskey",
+        "amount": 45.0,
+        "unit": "ml",
+        "original": "45 ml Bourbon whiskey"
+      },
+      {
+        "name": "coffee liqueur",
+        "amount": 15.0,
+        "unit": "ml",
+        "original": "15 ml Coffee liqueur"
+      },
+      {
+        "name": "orange juice",
+        "amount": 10.0,
+        "unit": "ml",
+        "original": "10 ml Orange juice"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 10.0,
+        "unit": "ml",
+        "original": "10 ml Lemon juice"
+      },
+      {
+        "name": "orgeat almond liqueur",
+        "amount": 7.5,
+        "unit": "ml",
+        "original": "7.5 ml Orgeat almond liqueur"
+      },
+      {
+        "name": "saline solution 4:1",
+        "amount": 0.15000000000000002,
+        "unit": "ml",
+        "original": "3 drop Saline solution 4:1"
+      }
+    ],
+    "technique": "shaken",
+    "glass": "coupe",
+    "notes": "select and pre-chill a coupe glass. | prepare garnish of coin-sized orange or lemon zest twist. | shake all ingredients with ice.",
+    "rating": 4.5,
+    "expert_validated": true
+  },
+  {
+    "name": "Caribbean Boulevardier",
+    "source_book": "Difford's Guide",
+    "source_url": "https://www.diffordsguide.com/cocktails/recipe/37362/caribbean-boulevardier",
+    "ingredients": [
+      {
+        "name": "bourbon whiskey",
+        "amount": 15.0,
+        "unit": "ml",
+        "original": "15 ml Bourbon whiskey"
+      },
+      {
+        "name": "aged rum (6-10yr)",
+        "amount": 15.0,
+        "unit": "ml",
+        "original": "15 ml Aged rum (6-10yr)"
+      },
+      {
+        "name": "coconut liqueur",
+        "amount": 22.5,
+        "unit": "ml",
+        "original": "22.5 ml Coconut liqueur"
+      },
+      {
+        "name": "red bitter liqueur",
+        "amount": 22.5,
+        "unit": "ml",
+        "original": "22.5 ml Red bitter liqueur"
+      },
+      {
+        "name": "rosso/sweet vermouth",
+        "amount": 22.5,
+        "unit": "ml",
+        "original": "22.5 ml Rosso/sweet vermouth"
+      }
+    ],
+    "technique": "stirred",
+    "glass": "unknown",
+    "notes": "select and pre-chill an old-fashioned glass. | prepare garnish of orange zest twist. | stir all ingredients with ice.",
+    "rating": 4.5,
+    "expert_validated": true
+  },
+  {
+    "name": "Coconut Mojito",
+    "source_book": "Difford's Guide",
+    "source_url": "https://www.diffordsguide.com/cocktails/recipe/37236/coconut-mojito",
+    "ingredients": [
+      {
+        "name": "light gold rum 1-3yo",
+        "amount": 60.0,
+        "unit": "ml",
+        "original": "60 ml Light gold rum 1-3yo"
+      },
+      {
+        "name": "coconut liqueur",
+        "amount": 22.5,
+        "unit": "ml",
+        "original": "22.5 ml Coconut liqueur"
+      },
+      {
+        "name": "lime juice",
+        "amount": 15.0,
+        "unit": "ml",
+        "original": "15 ml Lime juice"
+      },
+      {
+        "name": "soda (club soda) water",
+        "amount": 15.0,
+        "unit": "ml",
+        "original": "15 ml Soda (club soda) water"
+      }
+    ],
+    "technique": "stirred",
+    "glass": "collins",
+    "notes": "select and pre-chill a collins glass. | prepare garnish of mint sprigs bouquet. | add first 3 ingredients to glass and two-thirds fill with crushed ice.",
+    "rating": 4.5,
+    "expert_validated": true
+  },
+  {
+    "name": "Aegean Sunrise",
+    "source_book": "Difford's Guide",
+    "source_url": "https://www.diffordsguide.com/cocktails/recipe/37360/aegean-sunrise",
+    "ingredients": [
+      {
+        "name": "greek spirit",
+        "amount": 30.0,
+        "unit": "ml",
+        "original": "30 ml Greek spirit"
+      },
+      {
+        "name": "coconut liqueur",
+        "amount": 30.0,
+        "unit": "ml",
+        "original": "30 ml Coconut liqueur"
+      },
+      {
+        "name": "orange juice",
+        "amount": 30.0,
+        "unit": "ml",
+        "original": "30 ml Orange juice"
+      },
+      {
+        "name": "pineapple juice",
+        "amount": 60.0,
+        "unit": "ml",
+        "original": "60 ml Pineapple juice"
+      },
+      {
+        "name": "lime juice",
+        "amount": 15.0,
+        "unit": "ml",
+        "original": "15 ml Lime juice"
+      },
+      {
+        "name": "grenadine syrup",
+        "amount": 5.0,
+        "unit": "ml",
+        "original": "5 ml Grenadine syrup"
+      }
+    ],
+    "technique": "shaken",
+    "glass": "collins",
+    "notes": "select and pre-chill a collins glass. | prepare garnish of skewered orange slice wheel and luxardo maraschino cherry (sail). | shake first 5 ingredients with ice.",
+    "rating": 4.0,
+    "expert_validated": true
+  },
+  {
+    "name": "Pumpkin Spice Margarita (PSM)",
+    "source_book": "Difford's Guide",
+    "source_url": "https://www.diffordsguide.com/cocktails/recipe/37437/pumpkin-spice-margarita-psm",
+    "ingredients": [
+      {
+        "name": "reposado tequila",
+        "amount": 60.0,
+        "unit": "ml",
+        "original": "60 ml Reposado tequila"
+      },
+      {
+        "name": "triple sec",
+        "amount": 15.0,
+        "unit": "ml",
+        "original": "15 ml Triple sec"
+      },
+      {
+        "name": "lime juice",
+        "amount": 22.5,
+        "unit": "ml",
+        "original": "22.5 ml Lime juice"
+      },
+      {
+        "name": "pumpkin spice syrup",
+        "amount": 15.0,
+        "unit": "ml",
+        "original": "15 ml Pumpkin spice syrup"
+      },
+      {
+        "name": "pumpkin puree",
+        "amount": 10.0,
+        "unit": "ml",
+        "original": "2 barspoon Pumpkin puree"
+      }
+    ],
+    "technique": "shaken",
+    "glass": "coupe",
+    "notes": "select and pre-chill a coupe glass. | prepare garnish of lime wedge. | shake all ingredients with ice.",
+    "rating": 4.0,
+    "expert_validated": true
+  },
+  {
+    "name": "Brazuca Remedy",
+    "source_book": "Difford's Guide",
+    "source_url": "https://www.diffordsguide.com/cocktails/recipe/4245/brazuca-remedy",
+    "ingredients": [
+      {
+        "name": "cacha\u00e7a",
+        "amount": 45.0,
+        "unit": "ml",
+        "original": "45 ml Cacha\u00e7a"
+      },
+      {
+        "name": "limoncello liqueur",
+        "amount": 20.0,
+        "unit": "ml",
+        "original": "20 ml Limoncello liqueur"
+      },
+      {
+        "name": "orange-red aperitivo",
+        "amount": 20.0,
+        "unit": "ml",
+        "original": "20 ml Orange-red aperitivo"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 10.0,
+        "unit": "ml",
+        "original": "10 ml Lemon juice"
+      },
+      {
+        "name": "honey and water syrup",
+        "amount": 5.0,
+        "unit": "ml",
+        "original": "5 ml Honey and water syrup"
+      },
+      {
+        "name": "egg white (pasteurised)",
+        "amount": 15.0,
+        "unit": "ml",
+        "original": "15 ml Egg white (pasteurised)"
+      }
+    ],
+    "technique": "shaken",
+    "glass": "martini",
+    "notes": "select and pre-chill a sour or martini/coupette glass. | prepare garnish of lemon zest twist and basil leaf. | muddle basil in base of shaker.",
+    "rating": 4.5,
+    "expert_validated": true
+  }
+]
