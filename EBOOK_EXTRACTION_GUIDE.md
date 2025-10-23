@@ -1,12 +1,36 @@
-# Ebook Recipe Extraction Guide
+# Recipe Extraction Guide
 
 ## Quick Start
 
-You have cocktail recipe ebooks. This guide shows how to extract recipes and integrate them into CocktailIQ.
+Multiple ways to add expert cocktail recipes to CocktailIQ:
+1. **Difford's Guide scraping** (Recommended - Fast & Easy)
+2. **Ebook extraction** (PDFs, EPUB files)
+3. **Manual copy-paste** (Any source)
 
 ---
 
-## Step 1: Extract Recipes from Your Ebooks
+## Option 1: Scrape Difford's Guide (Recommended)
+
+**Fastest way to build a comprehensive database!**
+
+Difford's Guide has 3,000+ professional recipes with ratings.
+
+```bash
+python scrape_diffords.py
+```
+
+**Select option 1:**
+- Scrape top cocktails (e.g., 200 recipes)
+- Takes ~7 minutes with built-in rate limiting
+- Automatically saves to `data/book_cocktails.json`
+
+**See:** `DIFFORDS_SCRAPING_GUIDE.md` for complete instructions
+
+---
+
+## Option 2: Extract from Ebooks
+
+### Step 1: Extract Recipes from Your Ebooks
 
 ### Method A: Automated Extraction (PDF/EPUB)
 
@@ -53,9 +77,9 @@ Stir, serve in rocks glass
 
 ---
 
-## Step 2: Analyze Book Recipes
+## Step 2: Analyze All Recipes
 
-After extracting recipes, analyze them to build ingredient frequency database:
+After extracting recipes (from Difford's, ebooks, or manual paste), analyze them to build ingredient frequency database:
 
 ```bash
 python analyze_book_recipes.py
